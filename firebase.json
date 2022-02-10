@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "saatvikcashewbuy",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
